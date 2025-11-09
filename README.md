@@ -21,14 +21,6 @@ It implements Von Neumann CPU architecture concepts on Arduino Uno and features 
 
 ---
 
-## 📸 Screenshots
-
-| Calculator Interface | Connection Status |
-|:-------------------:|:----------------:|
-| ![Interface Preview](link-to-your-calculator-image) | ![Connection Status](link-to-your-status-image) |
-
----
-
 ## 🧩 Architecture Overview
 
 | Concept      | Implementation         |
@@ -74,8 +66,7 @@ ARDUINO-CALC-Matrix-Edition/
 ├─ LICENSE
 ├─ README.md
 ├─ calculator.ino # Arduino sketch (core logic)
-├─ calculator.html # Web interface
-└─ media/ # Images, demo screenshots
+├─ calculator.html # Web interface└─ media/ # Images, demo screenshots
 
 ---
 
