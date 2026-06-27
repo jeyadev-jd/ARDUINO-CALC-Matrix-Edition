@@ -21,6 +21,12 @@ It implements Von Neumann CPU architecture concepts on Arduino Uno and features 
 
 ---
 
+## 📸 Screenshot
+
+![Calculator Screenshot](Pasted%20image.png)
+
+---
+
 ## 🧩 Architecture Overview
 
 | Concept      | Implementation         |
